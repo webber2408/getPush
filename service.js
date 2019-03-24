@@ -31,7 +31,7 @@ const urlB64ToUint8Array = base64String => {
 
 //post request to save subscription to the backend application server
 const saveSubscription =  async subscription => {
-    const SERVER_URL = 'https://webber2408.github.io/sendPush/save-subscription'
+    const SERVER_URL = 'https://sleepy-sierra-16335.herokuapp.com/save-subscription'
     const response = await fetch(
         SERVER_URL,
         {
