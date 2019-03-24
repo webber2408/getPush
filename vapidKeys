@@ -1,0 +1,17 @@
+Public Key:
+BIGjPqISlcByBt4n69xK_AsKaMAYbN6yAQm8XdNNEZW-NhUt6DoZnwjfb5O68td0Qmib6jIFNcIDLtdE9PoTpq4
+
+Private Key:
+fYnT6uFAws22NCKH_l2EzMw3T-k96NU6h206CAgyFEA
+
+
+Endpoint result
+
+{
+    "endpoint":"https://fcm.googleapis.com/fcm/send/fsqC-finUHQ:APA91bGX2oNFFzoOX-KFF3GoQLymtj0hMZoM6rkU4bNRu4214yRu4q9Y3doIsNI5jdVaWVpHEHT_F0_wpY9nQ8_GrCmLRwqvSfL24Mkg76LJLcJd3-6YtWH4GU5ZC8X1rCCMoGtT1GDn",
+    "expirationTime":null,
+    "keys":{
+            "p256dh":"BBW5u5Bu3AU-hHNvlMIt2wZrn1GA97xSTlKGBPkmXXAwBqfhs8mzRY2aFPAgou7AXnN0EHdjDpW1nqgYVwshrwM",
+            "auth":"Aqxw7DPDjywjcmul9SYBJA"
+        }
+}
